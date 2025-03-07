@@ -68,4 +68,27 @@ const userCredits = async (req, res) => {
   }
 }
 
+// const paypalInstance = new paypal({
+//   key_id: process.env.PAYPAL_KEY_ID,
+//   key_secret: process.env.PAYPAL_KEY_SECRET
+// });
+
+// const paymentPaypal = async(req, res) => {
+//   try {
+
+//       const {userId, planId} = req.body
+
+//       const userData = await userModel.findById(userId)
+
+//       if (!userId || !planId) {
+//         return res.json({sucess: false, message: "Missing Details"})
+//       }
+
+//       let credits
+//   } catch (error) {
+//     console.log(error)
+//     res.json({sucess: false, message: error.message})
+//   }
+// }
+
 export {registerUser, loginUser, userCredits}
