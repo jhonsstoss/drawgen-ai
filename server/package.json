@@ -1,6 +1,5 @@
 {
   "name": "server",
-  "homepage": "https://jhonsstoss.github.io/drawgen-ai",
   "version": "1.0.0",
   "description": "",
   "license": "ISC",
@@ -9,9 +8,7 @@
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
-    "server": "nodemon server.js",
-    "predeploy": "npm run server",
-    "deploy": "gh-pages --d dist"
+    "server": "nodemon server.js"
   },
   "dependencies": {
     "axios": "^1.8.1",
