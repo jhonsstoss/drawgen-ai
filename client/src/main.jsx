@@ -6,22 +6,10 @@ import AppContextProvider from './context/AppContext.jsx'
 import './index.css'
 import App from './App.jsx'
 
-// createRoot(document.getElementById('root')).render(
-//   <BrowserRouter>
-//     <AppContextProvider> 
-//       <App />
-//     </AppContextProvider>
-//   </BrowserRouter>  
-// )
-
-const container = document.getElementById("root");
- render(
-  <React.StrictMode>
-    <BrowserRouter>
-//     <AppContextProvider> 
-//       <App />
-//     </AppContextProvider>
-//   </BrowserRouter> 
- </React.StrictMode>,
-  container
-);
+createRoot(document.getElementById('root')).render(
+  <BrowserRouter>
+    <AppContextProvider> 
+      <App />
+    </AppContextProvider>
+  </BrowserRouter>  
+)
