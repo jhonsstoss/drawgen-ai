@@ -1,0 +1,20 @@
+/* Color Theme Swatches in Hex */
+.Synthwave-retro-1-hex { color: #F250B9; }
+.Synthwave-retro-2-hex { color: #F05EF2; }
+.Synthwave-retro-3-hex { color: #F1C4F2; }
+.Synthwave-retro-4-hex { color: #82378C; }
+.Synthwave-retro-5-hex { color: #241040; }
+
+/* Color Theme Swatches in RGBA */
+.Synthwave-retro-1-rgba { color: rgba(242, 79, 185, 1); }
+.Synthwave-retro-2-rgba { color: rgba(239, 94, 242, 1); }
+.Synthwave-retro-3-rgba { color: rgba(241, 196, 242, 1); }
+.Synthwave-retro-4-rgba { color: rgba(130, 54, 140, 1); }
+.Synthwave-retro-5-rgba { color: rgba(35, 15, 63, 1); }
+
+/* Color Theme Swatches in HSLA */
+.Synthwave-retro-1-hsla { color: hsla(320, 86, 63, 1); }
+.Synthwave-retro-2-hsla { color: hsla(298, 85, 66, 1); }
+.Synthwave-retro-3-hsla { color: hsla(298, 64, 85, 1); }
+.Synthwave-retro-4-hsla { color: hsla(292, 43, 38, 1); }
+.Synthwave-retro-5-hsla { color: hsla(264, 60, 15, 1); }

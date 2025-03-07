@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2020 (64 Bit) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="50mm" height="50mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 5000 5000"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:#F250B9;stroke-width:211.67;stroke-miterlimit:22.9256}
+    .str1 {stroke:#F250B9;stroke-width:20;stroke-miterlimit:22.9256}
+    .fil0 {fill:none;fill-rule:nonzero}
+    .fil1 {fill:#F250B9;fill-rule:nonzero}
+   ]]>
+  </style>
+ </defs>
+ <g id="Camada_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="step_icon_2.svg">
+   <path class="fil0 str0" d="M1104.97 6.13l2777.8 0c613.5,0 1111.06,497.56 1111.06,1111.1l0.04 2777.8c-0.04,613.46 -497.6,1111.02 -1111.14,1111.02l-2777.76 0.08c-613.5,-0.08 -1111.06,-497.64 -1111.06,-1111.19l-0.04 -2777.71c0.04,-613.54 497.6,-1111.1 1111.14,-1111.1z"/>
+   <path class="fil1 str1" d="M2361.92 1846.43l65.98 -131.99 131.94 -65.93 -131.94 -65.97 -65.98 -131.95 -65.97 131.95 -131.95 65.97 131.95 65.93 65.97 131.99zm-593.72 263.86l109.9 -219.89 219.93 -109.94 -219.93 -109.99 -109.9 -219.88 -109.95 219.88 -219.92 109.99 219.92 109.94 109.95 219.89zm1451.34 527.79l-109.9 219.93 -219.93 109.94 219.93 109.98 109.9 219.89 109.95 -219.89 219.92 -109.98 -219.92 -109.94 -109.95 -219.93zm291.2 -798.96l-349.86 -349.86c-25.71,-25.82 -59.47,-38.67 -93.23,-38.67 -33.81,0 -67.57,12.85 -93.32,38.67l-1497.33 1497.33c-51.56,51.57 -51.56,135.1 0,186.59l349.86 349.86c25.75,25.78 59.51,38.63 93.23,38.63 33.81,0 67.57,-12.85 93.32,-38.63l1497.33 -1497.37c51.56,-51.49 51.56,-135.06 0,-186.55zm-590.33 450.4l-209.89 -209.93 357.04 -357.09 209.94 209.94 -357.09 357.08z"/>
+  </g>
+ </g>
+</svg>
