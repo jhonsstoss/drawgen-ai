@@ -27,7 +27,7 @@ const Slider = () => {
         }}
         modules={[Pagination, Navigation, FreeMode, EffectCoverflow]}
         className='w-[100%] lg:h-120 xlg:h-150 md:h-70 m:h-20 flex justify-center items-center bg-transparent my-20'>
-        {Array(6).fill('').map((item, index) => (
+        {Array(10).fill('').map((item, index) => (
           <SwiperSlide key={index}>
             <img className='block mt-5 size-auto rounded hover:scale-105 transition-all cursor-grab duration-300'src={assets[`sample_img_${index + 1}`]} alt={item} />
           </SwiperSlide>))}
