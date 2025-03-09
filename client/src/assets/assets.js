@@ -12,6 +12,10 @@ import sample_img_3 from './sample_img_3.png'
 import sample_img_4 from './sample_img_4.png'
 import sample_img_5 from './sample_img_5.jpg'
 import sample_img_6 from './sample_img_6.jpg'
+import sample_img_7 from './sample_img_7.png'
+import sample_img_8 from './sample_img_8.png'
+import sample_img_9 from './sample_img_9.png'
+import sample_img_10 from './sample_img_10.png'
 import profile_img_1 from './profile_img_1.png'
 import profile_img_2 from './profile_img_2.png'
 import step_icon_1 from './step_icon_1.svg'
@@ -40,6 +44,10 @@ export const assets = {
     sample_img_4,
     sample_img_5,
     sample_img_6,
+    sample_img_7,
+    sample_img_8,
+    sample_img_9,
+    sample_img_10,
     email_icon,
     lock_icon,
     cross_icon,
